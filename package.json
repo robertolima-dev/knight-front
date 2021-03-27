@@ -14,7 +14,7 @@
     "core-js": "^3.6.5",
     "moment": "^2.29.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.0.7"
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.0",
