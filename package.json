@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.0.0-rc.26",
     "core-js": "^3.6.5",
     "moment": "^2.29.1",
